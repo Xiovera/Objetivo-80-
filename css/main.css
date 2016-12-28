@@ -1,24 +1,25 @@
-*{
-	outline: 1px solid red;
-}
+
 .objetivo-fondo{
-	background-image: url(fondo.jpg) no-repeat;
-	background-size: cover;
+	background-color: rgb(249,169,26);
 }
 .container{
-	margin-top: 100px;
+	margin-top: 10px;
 }
 h1{
 	color: blue;
 	font-family: 'Fredoka One', cursive;
 }
 p{
-	margin-top: 30px;
+	margin-top: 20px;
 }
 h2{
-	margin-top: 150px;
+	margin-top: 100px;
+	
 }
 label{
-	color: red;
+	color: blue;
 	font-family: 'Comfortaa',cursive; 
+}
+.img-responsive{
+	max-width: 40%; !important
 }
